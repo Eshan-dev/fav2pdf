@@ -16,7 +16,7 @@ optional arguments:
   --from-date FROM_DATE
                         From date
   --to-date TO_DATE     To date
-  --all-in-one          Save all posts in one PDF-file
+  --all-in-one          Save all posts in one PDF-Files
   --only-hubs [ONLY_HUBS [ONLY_HUBS ...]]
                         Save only posts from hubs. For multiple: "--only-hubs
                         Hub1 Hub2 --"
